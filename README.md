@@ -16,3 +16,11 @@ uploaded in git and learned the Git
   *then add all files by git add .
   *then commit the file by git commit -m "Some message"
   *Push the Commited files to the Repo by git push -u orgin master
+
+Packages need to added:
+Bootstrap
+Router
+Redux
+Stripe
+Toastify
+Formik
