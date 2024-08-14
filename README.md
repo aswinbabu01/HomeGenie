@@ -9,4 +9,10 @@ Currently, two official plugins are available:
 
 Process for HomeGenie: 
 Vite React file created
-uploaded in git 
+uploaded in git and learned the Git
+  *Create one Repository
+  *Add Git remote
+  *Create branch by git branch -m main(Name of the branch)
+  *then add all files by git add .
+  *then commit the file by git commit -m "Some message"
+  *Push the Commited files to the Repo by git push -u orgin master
