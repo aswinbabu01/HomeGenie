@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 
 Process for HomeGenie: 
 Vite React file created
+uploaded in git 
